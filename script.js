@@ -2,7 +2,7 @@
 //to reset
 
 function reset(){
-    location.onload()
+    location.reload()
 }
 
 
